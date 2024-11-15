@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 9,
+  "currentlySelectedSackNumber": 3,
   "sacks": [
     {
       "iconinfo": null,
@@ -377,7 +377,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1800990784,
           "pointX": 6,
           "pointY": 4
         },
@@ -2867,7 +2867,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1796010048,
           "pointX": 14,
           "pointY": 6
         },
@@ -7643,21 +7643,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 28960,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\U_E_002.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 28646,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\u_l_002.dbr",
           "prefixName": "",
@@ -7668,7 +7653,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 10
         },
         {
@@ -7683,7 +7668,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 10
         },
         {
@@ -7698,8 +7683,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
+          "pointX": 16,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -7713,7 +7698,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 12
         },
         {
@@ -7728,7 +7713,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 2,
           "pointY": 12
         },
         {
@@ -7743,7 +7728,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 12
         }
       ]
