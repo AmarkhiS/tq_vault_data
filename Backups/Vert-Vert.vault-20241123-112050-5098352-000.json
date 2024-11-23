@@ -137,7 +137,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1789849664,
           "pointX": 8,
           "pointY": 0
         },
@@ -152,98 +152,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1789849664,
           "pointX": 9,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 21000,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_L_PotamoiWarrior.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_05.dbr",
-          "suffixName": "records\\xpack3\\items\\lootmagicalaffixes\\suffix\\default\\rare_extrarelic_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 20224,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_L_PotamoiWarrior.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 11,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 13275,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_L_Serpentoid.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 12,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 5962,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_L_Serpentoid.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 13,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 29552,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_L_Serpentoid.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11927,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Spear\\M_L_TritonWarrior.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 15,
           "pointY": 0
         },
         {
@@ -258,7 +168,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -273,7 +183,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -288,8 +198,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 5
+          "pointX": 12,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -303,8 +213,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 5
+          "pointX": 13,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -318,8 +228,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 5
+          "pointX": 14,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -333,8 +243,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 5
+          "pointX": 15,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -348,8 +258,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 5
+          "pointX": 16,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -363,8 +273,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 5
+          "pointX": 17,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -378,7 +288,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 0,
           "pointY": 5
         },
         {
@@ -393,7 +303,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 1,
           "pointY": 5
         },
         {
@@ -408,7 +318,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 2,
           "pointY": 5
         },
         {
@@ -423,7 +333,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 3,
           "pointY": 5
         },
         {
@@ -438,7 +348,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 4,
           "pointY": 5
         }
       ]
@@ -519,21 +429,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 25484,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Staff\\MI_L_Serpentoid_Frost.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage to Undead_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 10,
           "pointY": 0
         }
       ]
@@ -618,21 +513,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16130,
-          "baseName": "records\\xpack3\\items\\equipmentweapon\\bow\\mi_l_serpentoidvanguardmelee.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Damage_04.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 5,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 23702,
           "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Bow\\C_L_DesertHunterBow_05.dbr",
           "prefixName": "",
@@ -643,7 +523,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -658,7 +538,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -673,7 +553,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -688,7 +568,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -703,7 +583,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -718,7 +598,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 10,
           "pointY": 0
         }
       ]
@@ -848,21 +728,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 2323,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\MI_L_Serpentoid.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 11,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 17519,
           "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Axe\\MI_L_Ceremonial_Axe_01.dbr",
           "prefixName": "",
@@ -873,7 +738,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -888,7 +753,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -903,7 +768,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -918,7 +783,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -933,8 +798,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 3
+          "pointX": 16,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -948,8 +813,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 3
+          "pointX": 17,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -963,7 +828,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 5,
           "pointY": 3
         },
         {
@@ -978,7 +843,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 3
         },
         {
@@ -993,7 +858,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 7,
           "pointY": 3
         },
         {
@@ -1008,7 +873,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 3
         }
       ]
@@ -1467,7 +1332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1789849664,
           "pointX": 2,
           "pointY": 0
         }
@@ -1580,21 +1445,6 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 4885,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\C06_GreavesMage03.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Character_AttributeEnergy_06.dbr",
-          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_ResistMobilityImpairment_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 0
         }
       ]
     },
@@ -1648,36 +1498,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 27872,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\M_L_CrabmanMelee.dbr",
-          "prefixName": "records\\item\\lootmagicalaffixes\\prefix\\default\\rare_kingly_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_%Protection_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 6,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 29535,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Torso\\M_L_SerpentoidMage.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_Glade_Armor_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 8089,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\C03_Torso06.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_02.dbr",
@@ -1688,7 +1508,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -1703,7 +1523,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -1718,7 +1538,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -1733,23 +1553,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 14841,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\C06_Bracelet03.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
           "pointX": 12,
-          "pointY": 2
+          "pointY": 0
         }
       ]
     },
@@ -1769,66 +1574,6 @@
       "iconinfo": null,
       "items": [
         {
-          "stackSize": 1,
-          "seed": 18613,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_L_KeySlab_QuestItem_B.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 891,
-          "baseName": "Records\\Item\\Miscellaneous\\Dyes\\Dye15_Purple.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 12749,
-          "baseName": "records\\xpack2\\item\\miscellaneous\\dyes\\egypt\\dye08_Gold.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 3775,
-          "baseName": "records\\xpack2\\item\\miscellaneous\\dyes\\orient\\dye12_RoyalBlue.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
           "stackSize": 100,
           "seed": 30091,
           "baseName": "records\\xpack3\\items\\miscellaneous\\oneshot\\potionxp_legendary.dbr",
@@ -1840,7 +1585,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 0,
           "pointY": 0
         },
         {
@@ -1855,7 +1600,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 1,
           "pointY": 0
         },
         {
@@ -1870,7 +1615,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 2,
           "pointY": 0
         },
         {
@@ -1885,22 +1630,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 21344,
-          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofambrosia01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 9,
+          "pointX": 3,
           "pointY": 0
         },
         {
@@ -1915,7 +1645,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -1930,7 +1660,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -1945,7 +1675,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -1960,7 +1690,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -1975,7 +1705,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -1990,13 +1720,13 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 10,
           "pointY": 0
         },
         {
           "stackSize": 1,
-          "seed": 0,
-          "baseName": "records\\xpack2\\quests\\objects\\items\\z_theprimrose.dbr",
+          "seed": 891,
+          "baseName": "Records\\Item\\Miscellaneous\\Dyes\\Dye15_Purple.dbr",
           "prefixName": "",
           "suffixName": "",
           "relicName": "",
@@ -2005,7 +1735,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -2020,7 +1750,67 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 12749,
+          "baseName": "records\\xpack2\\item\\miscellaneous\\dyes\\egypt\\dye08_Gold.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 13,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 3775,
+          "baseName": "records\\xpack2\\item\\miscellaneous\\dyes\\orient\\dye12_RoyalBlue.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 14,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 0,
+          "baseName": "records\\xpack2\\quests\\objects\\items\\z_theprimrose.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 15,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
+          "seed": 21344,
+          "baseName": "records\\xpack4\\item\\miscellaneous\\oneshot\\x4pot_potionofambrosia01.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 4,
           "pointY": 0
         }
       ]

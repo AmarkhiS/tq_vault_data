@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2828,21 +2828,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 12478,
-          "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\u_l_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1790767168,
-          "pointX": 10,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
           "seed": 2399,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\Axe\\u_n_03.dbr",
           "prefixName": "",
@@ -2853,7 +2838,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 6
         },
         {
@@ -2868,7 +2853,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 6
         },
         {
@@ -2883,7 +2868,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 6
         },
         {
@@ -2928,8 +2913,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 7
+          "pointX": 16,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2943,8 +2928,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 7
+          "pointX": 17,
+          "pointY": 6
         },
         {
           "stackSize": 1,
@@ -2958,7 +2943,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 7
         },
         {
@@ -2973,7 +2958,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 1,
           "pointY": 7
         },
         {
@@ -2988,7 +2973,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 2,
           "pointY": 7
         },
         {
@@ -3003,7 +2988,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 3,
           "pointY": 7
         },
         {
@@ -3018,8 +3003,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 9
+          "pointX": 4,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -3033,8 +3018,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 9
+          "pointX": 5,
+          "pointY": 7
         },
         {
           "stackSize": 1,
@@ -3048,7 +3033,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 9
         },
         {
@@ -3063,7 +3048,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 7,
           "pointY": 9
         },
         {
@@ -3078,7 +3063,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 9
         },
         {
@@ -3093,7 +3078,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 9
         },
         {
@@ -3108,7 +3093,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 9
         },
         {
@@ -3123,7 +3108,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 11,
           "pointY": 9
         },
         {
@@ -3138,7 +3123,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 9
         },
         {
@@ -3153,7 +3138,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
           "pointY": 9
         },
         {
@@ -3168,7 +3153,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 9
         },
         {
@@ -3183,7 +3168,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
           "pointY": 9
         },
         {
@@ -3198,8 +3183,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 10
+          "pointX": 16,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -3213,8 +3198,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 10
+          "pointX": 17,
+          "pointY": 9
         },
         {
           "stackSize": 1,
@@ -3228,7 +3213,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 10
         },
         {
@@ -3243,7 +3228,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
+          "pointX": 1,
           "pointY": 10
         },
         {
@@ -3258,7 +3243,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 2,
           "pointY": 10
         },
         {
@@ -3273,7 +3258,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 3,
           "pointY": 10
         },
         {
@@ -3288,8 +3273,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 12
+          "pointX": 4,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -3303,8 +3288,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 12
+          "pointX": 5,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -3318,7 +3303,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 12
         },
         {
@@ -3333,7 +3318,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 7,
           "pointY": 12
         },
         {
@@ -3348,7 +3333,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 12
         },
         {
@@ -3363,7 +3348,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 12
         },
         {
@@ -3393,7 +3378,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 12
         }
       ]
@@ -4803,21 +4788,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 10257,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\um_l_Set07.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
           "seed": 17953,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\um_n_01.dbr",
           "prefixName": "",
@@ -4828,7 +4798,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 10
         },
         {
@@ -4843,7 +4813,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 10
         },
         {
@@ -4858,22 +4828,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 29625,
-          "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Armband\\u_l_Set04.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 12,
+          "pointX": 8,
           "pointY": 10
         },
         {
@@ -4888,7 +4843,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 10,
           "pointY": 10
         },
         {
@@ -4903,7 +4858,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 12,
           "pointY": 10
         },
         {
@@ -4918,8 +4873,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 12
+          "pointX": 14,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -4933,8 +4888,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 12
+          "pointX": 16,
+          "pointY": 10
         },
         {
           "stackSize": 1,
@@ -4948,7 +4903,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 0,
           "pointY": 12
         },
         {
@@ -4963,7 +4918,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 2,
           "pointY": 12
         },
         {
@@ -4978,7 +4933,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 4,
           "pointY": 12
         },
         {
@@ -4993,7 +4948,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 6,
           "pointY": 12
         },
         {
@@ -5008,7 +4963,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 8,
           "pointY": 12
         },
         {
@@ -5023,7 +4978,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 10,
           "pointY": 12
         },
         {
@@ -5038,7 +4993,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 12,
           "pointY": 12
         },
         {
@@ -5053,8 +5008,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 14
+          "pointX": 14,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -5068,8 +5023,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 14
+          "pointX": 16,
+          "pointY": 12
         },
         {
           "stackSize": 1,
@@ -5083,7 +5038,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 0,
           "pointY": 14
         }
       ]
@@ -6013,21 +5968,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 30169,
-          "baseName": "Records\\Item\\EquipmentArmor\\U_L_VerdantPlate.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 17262,
           "baseName": "records\\xpack2\\item\\equipmentarmor\\torso\\u_e_01.dbr",
           "prefixName": "",
@@ -6038,7 +5978,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 3
         },
         {
@@ -6053,7 +5993,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 2,
           "pointY": 3
         },
         {
@@ -6068,7 +6008,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 3
         },
         {
@@ -6083,7 +6023,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 3
         },
         {
@@ -6098,7 +6038,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 3
         },
         {
@@ -6113,7 +6053,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 3
         },
         {
@@ -6128,7 +6068,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 3
         },
         {
@@ -6143,7 +6083,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 3
         },
         {
@@ -6158,8 +6098,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
+          "pointX": 16,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -6173,7 +6113,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 0,
           "pointY": 6
         }
       ]
