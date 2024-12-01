@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 6,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -657,7 +657,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 0
         },
@@ -672,7 +672,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1785983040,
           "pointX": 7,
           "pointY": 0
         },
@@ -1438,6 +1438,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 13780,
+          "baseName": "records\\item\\equipmentamulet\\u_n_jadetotem.dbr",
+          "prefixName": "",
+          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\character_abilityoffensive_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 7,
+          "pointY": 2
+        },
+        {
+          "stackSize": 1,
           "seed": 8393,
           "baseName": "Records\\XPack2\\Item\\equipmentArmor\\Amulet\\C04_Amulet05.dbr",
           "prefixName": "",
@@ -1448,7 +1463,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 8,
           "pointY": 2
         },
         {
@@ -1463,7 +1478,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 9,
           "pointY": 2
         },
         {
@@ -1478,7 +1493,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 10,
           "pointY": 2
         },
         {
@@ -1493,7 +1508,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 11,
           "pointY": 2
         }
       ]
