@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -278,25 +278,25 @@
         },
         {
           "stackSize": 1,
-          "seed": 2844,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Spear\\C_L_FangTianSpear_03.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePierce_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Cold_03.dbr",
+          "seed": 23440,
+          "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\c_l_kadeshbattlespear_01.dbr",
+          "prefixName": "",
+          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\offensive_+%cold_03.dbr",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 0,
           "pointY": 5
         },
         {
           "stackSize": 1,
-          "seed": 23440,
-          "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\c_l_kadeshbattlespear_01.dbr",
+          "seed": 17102,
+          "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\c_l_qiang_02.dbr",
           "prefixName": "",
-          "suffixName": "records\\item\\lootmagicalaffixes\\suffix\\default\\offensive_+%cold_03.dbr",
+          "suffixName": "records\\xpack4\\item\\lootmagicalaffixes\\suffix\\default\\rare_martial_supremacy_01.dbr",
           "relicName": "",
           "relicBonus": "",
           "var1": 0,
@@ -323,21 +323,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17102,
-          "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\c_l_qiang_02.dbr",
-          "prefixName": "",
-          "suffixName": "records\\xpack4\\item\\lootmagicalaffixes\\suffix\\default\\rare_martial_supremacy_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 3,
-          "pointY": 5
-        },
-        {
-          "stackSize": 1,
           "seed": 2350,
           "baseName": "records\\xpack4\\item\\equipmentweapon\\spear\\c_l_sobekimpaler_02.dbr",
           "prefixName": "records\\item\\lootmagicalaffixes\\prefix\\default\\rare_veteransweapon_01.dbr",
@@ -348,7 +333,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 3,
           "pointY": 5
         },
         {
@@ -363,7 +348,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
+          "pointX": 4,
           "pointY": 5
         },
         {
@@ -378,7 +363,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 5,
           "pointY": 5
         },
         {
@@ -393,7 +378,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 6,
           "pointY": 5
         },
         {
@@ -408,7 +393,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 7,
           "pointY": 5
         },
         {
@@ -423,7 +408,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 8,
           "pointY": 5
         },
         {
@@ -438,7 +423,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 9,
           "pointY": 5
         },
         {
@@ -453,7 +438,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 10,
           "pointY": 5
         }
       ]
@@ -565,51 +550,6 @@
           "var2": 2035248,
           "pointX": 12,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 29775,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Staff\\MI_L_FallenSeers_FireStaff_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1896280128,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 2556,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Staff\\MI_L_FallenSeers_LightningStaff_01.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_CooldownReduction_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1896280128,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 11896,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Staff\\MI_L_FallenSeers_LightningStaff_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_05.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1896280128,
-          "pointX": 0,
-          "pointY": 4
         }
       ]
     },
@@ -768,21 +708,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11451,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Bow\\C_L_PeachwoodBow_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 10727,
           "baseName": "records\\xpack\\item\\equipmentweapons\\bow\\c01_bow03.dbr",
           "prefixName": "",
@@ -793,7 +718,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -808,7 +733,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -823,7 +748,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -838,7 +763,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -853,7 +778,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 14,
           "pointY": 0
         }
       ]
@@ -1643,21 +1568,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 12063,
-          "baseName": "records\\XPack4\\Item\\EquipmentArmor\\Helm\\C_L_DynastyHelmLesser_02.dbr",
-          "prefixName": "records\\XPack4\\Item\\LootMagicalAffixes\\Prefix\\Default\\rare_dajis_A_01.dbr",
-          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Rare_%xp%elementalResist_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 6203,
           "baseName": "records\\xpack\\item\\equipmentarmor\\helm\\c01_helm05.dbr",
           "prefixName": "records\\item\\lootmagicalaffixes\\prefix\\default\\rare_stately_01.dbr",
@@ -1668,7 +1578,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -1683,7 +1593,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 0
         },
         {
@@ -1698,7 +1608,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -1713,7 +1623,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -1728,7 +1638,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -1743,7 +1653,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 0
         }
       ]
