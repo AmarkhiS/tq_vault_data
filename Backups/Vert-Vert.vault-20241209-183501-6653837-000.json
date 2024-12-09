@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -287,7 +287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 5
         },
@@ -577,7 +577,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1896280128,
           "pointX": 14,
           "pointY": 0
         },
@@ -592,7 +592,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1896280128,
           "pointX": 16,
           "pointY": 0
         },
@@ -607,7 +607,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1896280128,
           "pointX": 0,
           "pointY": 4
         }
@@ -777,7 +777,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 10,
           "pointY": 0
         },
@@ -1228,21 +1228,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 17007,
-          "baseName": "Records\\XPack2\\Item\\equipmentArmor\\Amulet\\C05_Amulet02.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_SpellBound_01.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeEnergy_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 32,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 26608,
           "baseName": "Records\\XPack2\\Item\\equipmentArmor\\Amulet\\C05_Amulet05.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Dreadful_01.dbr",
@@ -1253,7 +1238,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -1268,7 +1253,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 0
         },
         {
@@ -1283,7 +1268,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -1298,7 +1283,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -1313,8 +1298,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
-          "pointY": 1
+          "pointX": 16,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1328,8 +1313,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 1
+          "pointX": 17,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1343,7 +1328,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 1
         },
         {
@@ -1358,7 +1343,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 1
         },
         {
@@ -1373,7 +1358,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 1
         },
         {
@@ -1388,7 +1373,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 11,
           "pointY": 1
         },
         {
@@ -1403,7 +1388,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 1
         },
         {
@@ -1418,7 +1403,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
           "pointY": 1
         },
         {
@@ -1433,7 +1418,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 1
         },
         {
@@ -1448,7 +1433,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
           "pointY": 1
         },
         {
@@ -1463,8 +1448,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 2
+          "pointX": 16,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1478,8 +1463,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 2
+          "pointX": 17,
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1493,7 +1478,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 2
         },
         {
@@ -1508,7 +1493,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 5,
           "pointY": 2
         },
         {
@@ -1523,7 +1508,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 6,
           "pointY": 2
         },
         {
@@ -1538,37 +1523,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 27571,
-          "baseName": "records\\XPack4\\Item\\EquipmentArmor\\Amulet\\C_L_DynastyCollar_01.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\PetBonus_PhysicalDmg_06.dbr",
-          "suffixName": "records\\XPack4\\Item\\LootMagicalAffixes\\Suffix\\Default\\rare_celestial_might_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 10,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 16837,
-          "baseName": "records\\XPack4\\Item\\EquipmentArmor\\Amulet\\C_L_DynastyCollar_05.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Dreadful_01.dbr",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
+          "pointX": 7,
           "pointY": 2
         },
         {
@@ -1583,7 +1538,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 8,
           "pointY": 2
         },
         {
@@ -1598,7 +1553,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 9,
           "pointY": 2
         },
         {
@@ -1613,7 +1568,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 10,
           "pointY": 2
         }
       ]
@@ -1649,21 +1604,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 2,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 27797,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Shield\\C_L_DoubleArcShield_04.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_%DmgStr_02.dbr",
-          "suffixName": "records\\XPack4\\Item\\LootMagicalAffixes\\Suffix\\Default\\rare_jin_chan_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1802956864,
-          "pointX": 4,
           "pointY": 0
         }
       ]
@@ -1712,7 +1652,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 0
         },
