@@ -2512,24 +2512,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 0,
           "pointX": 7,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 13400,
-          "baseName": "records\\XPack4\\Item\\Artifacts\\ArcaneFormulae\\L_DA_EssenceOfAnubisHaste_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 7,
-          "pointY": 3
         }
       ]
     },
