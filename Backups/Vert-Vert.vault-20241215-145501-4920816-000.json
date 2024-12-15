@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 11,
+  "currentlySelectedSackNumber": 4,
   "sacks": [
     {
       "iconinfo": null,
@@ -637,7 +637,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1797189696,
           "pointX": 2,
           "pointY": 4
         }
@@ -867,7 +867,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1797189696,
           "pointX": 14,
           "pointY": 0
         },
@@ -1013,36 +1013,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 5129,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Sword\\C_L_Niuweidao_02.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamagePoison_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1802498112,
-          "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 14355,
-          "baseName": "records\\xpack4\\item\\equipmentweapon\\sword\\mi_l_terracottaguard_dao_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_04.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1802498112,
-          "pointX": 5,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 10665,
           "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Sword\\C04_Sword01.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_04.dbr",
@@ -1053,7 +1023,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 4,
           "pointY": 0
         },
         {
@@ -1068,7 +1038,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 5,
           "pointY": 0
         },
         {
@@ -1083,7 +1053,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 7,
           "pointY": 0
         },
         {
@@ -1098,7 +1068,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 9,
           "pointY": 0
         },
         {
@@ -1113,7 +1083,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -1128,7 +1098,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -1143,8 +1113,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
-          "pointY": 3
+          "pointX": 15,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1158,7 +1128,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 5,
           "pointY": 3
         },
         {
@@ -1173,7 +1143,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 7,
           "pointY": 3
         },
         {
@@ -1203,7 +1173,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 9,
           "pointY": 3
         },
         {
@@ -1218,7 +1188,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 10,
           "pointY": 3
         },
         {
@@ -1233,7 +1203,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 11,
           "pointY": 3
         },
         {
@@ -1248,7 +1218,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 12,
           "pointY": 3
         },
         {
@@ -1263,7 +1233,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 13,
           "pointY": 3
         },
         {
@@ -1278,8 +1248,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
+          "pointX": 14,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -1293,8 +1263,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 4
+          "pointX": 15,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -1308,8 +1278,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 4
+          "pointX": 16,
+          "pointY": 3
         }
       ]
     },
@@ -2487,21 +2457,6 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 5384,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_A.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 2
         }
       ]
     }
