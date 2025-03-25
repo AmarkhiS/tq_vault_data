@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2560,21 +2560,6 @@
           "var2": 2035248,
           "pointX": 7,
           "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 29474,
-          "baseName": "Records\\XPack\\Item\\Artifacts\\ArcaneFormulae\\L_GA_TotemOfThePolymath_Formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 9,
-          "pointY": 13
         }
       ]
     },
