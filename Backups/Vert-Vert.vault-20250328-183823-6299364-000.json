@@ -77,7 +77,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1920004160,
           "pointX": 4,
           "pointY": 0
         },
@@ -107,7 +107,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798434880,
           "pointX": 6,
           "pointY": 0
         },
@@ -227,7 +227,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798434880,
           "pointX": 14,
           "pointY": 0
         },
@@ -287,7 +287,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1920004160,
           "pointX": 0,
           "pointY": 5
         },
@@ -302,7 +302,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798434880,
           "pointX": 1,
           "pointY": 5
         },
@@ -332,7 +332,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798434880,
           "pointX": 3,
           "pointY": 5
         },
@@ -347,7 +347,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798434880,
           "pointX": 4,
           "pointY": 5
         },
@@ -575,21 +575,6 @@
           "var2": 2035248,
           "pointX": 1,
           "pointY": 10
-        },
-        {
-          "stackSize": 1,
-          "seed": 28676,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Spear\\MI_L_Melinoe.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechMana_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 2,
-          "pointY": 10
         }
       ]
     },
@@ -804,66 +789,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 8,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 14752,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_L_Empousa.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 10,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 10196,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_L_Empousa.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeDexterity_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1807609920,
-          "pointX": 12,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 4884,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_L_Empousa.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AbilityDefensive_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 14,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 31677,
-          "baseName": "Records\\XPack\\Item\\EquipmentWeapons\\Staff\\MI_L_Empousa.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Stun_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 16,
           "pointY": 4
         }
       ]
@@ -1397,7 +1322,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1920004160,
           "pointX": 10,
           "pointY": 3
         },
@@ -1547,7 +1472,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1920004160,
           "pointX": 7,
           "pointY": 4
         },
@@ -1708,21 +1633,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 20058,
-          "baseName": "records\\xpack2\\item\\equipmentweapons\\1hranged\\MI_L_machae.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_LeechLife_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 10,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 10421,
           "baseName": "Records\\XPack3\\Items\\EquipmentWeapon\\1hRanged\\MI_L_PotamoiWarrior.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageCold_05.dbr",
@@ -1732,8 +1642,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
+          "var2": 1798434880,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -1748,7 +1658,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
+          "pointX": 11,
           "pointY": 0
         },
         {
@@ -1763,7 +1673,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 13,
           "pointY": 0
         },
         {
@@ -1778,8 +1688,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
-          "pointY": 2
+          "pointX": 15,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1794,7 +1704,7 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 15,
-          "pointY": 2
+          "pointY": 1
         },
         {
           "stackSize": 1,
@@ -1808,8 +1718,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 3
+          "pointX": 11,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1823,8 +1733,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 3
+          "pointX": 13,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1868,7 +1778,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 15,
           "pointY": 2
         },
         {
@@ -1883,8 +1793,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 3
+          "pointX": 16,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1898,8 +1808,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 3
+          "pointX": 17,
+          "pointY": 2
         },
         {
           "stackSize": 1,
@@ -1913,7 +1823,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 0,
           "pointY": 3
         },
         {
@@ -1928,7 +1838,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 1,
           "pointY": 3
         },
         {
@@ -1943,7 +1853,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 2,
           "pointY": 3
         },
         {
@@ -1958,7 +1868,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 9,
+          "pointX": 3,
           "pointY": 3
         },
         {
@@ -1973,7 +1883,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 4,
           "pointY": 3
         },
         {
@@ -1988,7 +1898,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 11,
+          "pointX": 5,
           "pointY": 3
         },
         {
@@ -2003,7 +1913,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 6,
           "pointY": 3
         },
         {
@@ -2018,22 +1928,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 13,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
-          "seed": 19774,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Ring\\C05_Ring04.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_StrLife_02.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Lightning_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 15,
-          "pointX": 14,
+          "pointX": 7,
           "pointY": 3
         },
         {
@@ -2048,7 +1943,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 8,
           "pointY": 3
         },
         {
@@ -2063,7 +1958,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 9,
           "pointY": 3
         },
         {
@@ -2078,7 +1973,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 10,
           "pointY": 3
         },
         {
@@ -2093,8 +1988,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
+          "pointX": 11,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2108,8 +2003,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
-          "pointY": 4
+          "pointX": 12,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2123,8 +2018,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 4
+          "pointX": 13,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2138,8 +2033,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 3,
-          "pointY": 4
+          "pointX": 14,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2153,8 +2048,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
-          "pointY": 4
+          "pointX": 15,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2168,8 +2063,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 5,
-          "pointY": 4
+          "pointX": 16,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2183,8 +2078,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 4
+          "pointX": 17,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2198,7 +2093,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 7,
+          "pointX": 0,
           "pointY": 4
         }
       ]
@@ -2247,7 +2142,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798434880,
           "pointX": 4,
           "pointY": 0
         },
@@ -2342,7 +2237,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1920004160,
           "pointX": 8,
           "pointY": 0
         },
@@ -2357,7 +2252,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1920004160,
           "pointX": 10,
           "pointY": 0
         },
@@ -2393,21 +2288,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 4247,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\C05_Circlet02.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_Hallowed_01.dbr",
-          "suffixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Suffix\\Default\\Defensive_ResistSleep_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 16,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 11131,
           "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Helm\\C05_Helm02.dbr",
           "prefixName": "",
@@ -2417,39 +2297,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 26137,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_L_MachaeMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_07.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_04.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 26592,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_L_MachaeMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistLightning_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_SpeedAttack_04.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 4,
-          "pointY": 2
+          "var2": 1065353216,
+          "pointX": 16,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -2463,7 +2313,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 0,
           "pointY": 2
         },
         {
@@ -2478,7 +2328,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 2,
           "pointY": 2
         },
         {
@@ -2493,7 +2343,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 4,
           "pointY": 2
         },
         {
@@ -2508,7 +2358,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 6,
           "pointY": 2
         },
         {
@@ -2523,22 +2373,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 18436,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Greaves\\MI_L_TroglodyteMelee.dbr",
-          "prefixName": "Records\\XPack\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_DemonProtectStrArmor_04.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeStrength_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1807609920,
-          "pointX": 16,
+          "pointX": 8,
           "pointY": 2
         }
       ]
@@ -2743,21 +2578,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11608,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Torso\\M_L_MachaeMelee.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Rare_HonorGuards_05.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_RegenLife_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1809903680,
-          "pointX": 8,
-          "pointY": 3
-        },
-        {
-          "stackSize": 1,
           "seed": 22879,
           "baseName": "Records\\Item\\EquipmentArmband\\C14_Bracelet02.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_ResistPierce_04.dbr",
@@ -2768,7 +2588,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 3
         },
         {
@@ -2783,7 +2603,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 3
         },
         {
@@ -2798,7 +2618,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 3
         },
         {
@@ -2813,7 +2633,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 14,
           "pointY": 3
         },
         {
@@ -2828,8 +2648,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
-          "pointY": 5
+          "pointX": 16,
+          "pointY": 3
         },
         {
           "stackSize": 1,
@@ -2843,7 +2663,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 8,
           "pointY": 5
         },
         {
@@ -2857,8 +2677,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 14,
+          "var2": 1920004160,
+          "pointX": 10,
           "pointY": 5
         },
         {
@@ -2873,7 +2693,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 12,
           "pointY": 5
         },
         {
@@ -2888,8 +2708,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 6
+          "pointX": 14,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2903,8 +2723,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
-          "pointY": 6
+          "pointX": 16,
+          "pointY": 5
         },
         {
           "stackSize": 1,
@@ -2917,8 +2737,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 4,
+          "var2": 1065353216,
+          "pointX": 0,
           "pointY": 6
         },
         {
@@ -2933,22 +2753,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
-          "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 29914,
-          "baseName": "Records\\XPack\\Item\\EquipmentArmor\\Armband\\MI_L_AnouranMage.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Defensive_Protection_07.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Character_AttributeIntelligence_05.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1807609920,
-          "pointX": 8,
+          "pointX": 2,
           "pointY": 6
         },
         {
@@ -2962,9 +2767,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 10,
-          "pointY": 7
+          "var2": 1065353216,
+          "pointX": 4,
+          "pointY": 6
         }
       ]
     },
@@ -3279,39 +3084,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 6
-        },
-        {
-          "stackSize": 1,
-          "seed": 32363,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_N_KeySlab_QuestItem_B.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 2,
-          "pointY": 2
-        },
-        {
-          "stackSize": 1,
-          "seed": 1114,
-          "baseName": "records\\item\\HCDungeon\\x4_HCDung_L_KeySlab_QuestItem_C.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 4,
-          "pointY": 4
         }
       ]
     }
