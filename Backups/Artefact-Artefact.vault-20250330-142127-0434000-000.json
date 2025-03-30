@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 1,
+  "currentlySelectedSackNumber": 2,
   "sacks": [
     {
       "iconinfo": null,
@@ -2575,21 +2575,6 @@
           "var2": 2035248,
           "pointX": 9,
           "pointY": 13
-        },
-        {
-          "stackSize": 1,
-          "seed": 18851,
-          "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\l_ga_gambanteinn_formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 11,
-          "pointY": 16
         }
       ]
     },
@@ -2658,21 +2643,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 11497,
-          "baseName": "records\\xpack\\item\\artifacts\\l_la_effigyofthepanther.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 349922264,
-          "pointX": 8,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 19370,
           "baseName": "records\\xpack\\item\\artifacts\\l_la_thunderfist.dbr",
           "prefixName": "",
@@ -2683,7 +2653,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 0
         },
         {
@@ -2698,7 +2668,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 0
         },
         {
@@ -2713,7 +2683,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 0
         }
       ]
