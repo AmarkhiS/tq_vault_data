@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 0,
+  "currentlySelectedSackNumber": 1,
   "sacks": [
     {
       "iconinfo": null,
@@ -2587,23 +2587,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 11,
-          "pointY": 16
-        },
-        {
-          "stackSize": 1,
-          "seed": 30283,
-          "baseName": "records\\xpack2\\item\\artifacts\\arcaneformulae\\l_ga_gambanteinn_formula.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
           "var2": 1065353216,
-          "pointX": 9,
+          "pointX": 11,
           "pointY": 16
         }
       ]
@@ -2682,7 +2667,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 349922264,
           "pointX": 8,
           "pointY": 0
         },
