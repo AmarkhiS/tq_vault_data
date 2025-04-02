@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -808,21 +808,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 1569,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Staff\\C_L_CanaaniteStaff_Lightning_02.dbr",
-          "prefixName": "",
-          "suffixName": "records\\XPack4\\Item\\LootMagicalAffixes\\Suffix\\Default\\rare_serket_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 4
-        },
-        {
-          "stackSize": 1,
           "seed": 29775,
           "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Staff\\MI_L_FallenSeers_FireStaff_01.dbr",
           "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageFire_05.dbr",
@@ -833,7 +818,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 4
         },
         {
@@ -848,7 +833,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 4
         },
         {
@@ -863,7 +848,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 4
         },
         {
@@ -877,8 +862,8 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 16,
+          "var2": 1792602176,
+          "pointX": 14,
           "pointY": 4
         },
         {
@@ -893,23 +878,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 4527,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Staff\\MI_L_Heretic_ColdStaff_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLightning_05.dbr",
-          "suffixName": "records\\XPack4\\Item\\LootMagicalAffixes\\Suffix\\Default\\rare_serket_01.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1796272192,
-          "pointX": 2,
-          "pointY": 8
+          "pointX": 16,
+          "pointY": 4
         },
         {
           "stackSize": 1,
@@ -923,7 +893,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 0,
           "pointY": 8
         },
         {
@@ -938,7 +908,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 2,
           "pointY": 8
         },
         {
@@ -953,7 +923,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 4,
           "pointY": 8
         },
         {
@@ -968,7 +938,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 6,
           "pointY": 8
         }
       ]
@@ -976,21 +946,6 @@
     {
       "iconinfo": null,
       "items": [
-        {
-          "stackSize": 1,
-          "seed": 19289,
-          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\C13_Bow01.dbr",
-          "prefixName": "",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 0,
-          "pointY": 0
-        },
         {
           "stackSize": 1,
           "seed": 9146,
@@ -1203,21 +1158,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 25629,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Bow\\MI_L_Charioteers_Bow_01.dbr",
-          "prefixName": "Records\\Item\\LootMagicalAffixes\\Prefix\\Default\\Offensive_DamageLife_03.dbr",
-          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_+%Fire_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1796272192,
-          "pointX": 15,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 10727,
           "baseName": "records\\xpack\\item\\equipmentweapons\\bow\\c01_bow03.dbr",
           "prefixName": "",
@@ -1228,7 +1168,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -1243,7 +1183,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -1258,8 +1198,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 4
+          "pointX": 17,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -1273,7 +1213,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 0,
           "pointY": 4
         },
         {
@@ -1288,8 +1228,23 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 1,
           "pointY": 4
+        },
+        {
+          "stackSize": 1,
+          "seed": 19289,
+          "baseName": "Records\\Item\\EquipmentWeapon\\Bow\\C13_Bow01.dbr",
+          "prefixName": "",
+          "suffixName": "Records\\Item\\LootMagicalAffixes\\Suffix\\Default\\Offensive_Damage%LifeLeech_02.dbr",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 0,
+          "pointY": 0
         }
       ]
     },
@@ -1412,7 +1367,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1792602176,
           "pointX": 7,
           "pointY": 0
         },
@@ -3337,7 +3292,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 10
         }
