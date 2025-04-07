@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 8,
+  "currentlySelectedSackNumber": 9,
   "sacks": [
     {
       "iconinfo": null,
@@ -4196,7 +4196,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 1065353216,
+          "var2": 2035248,
           "pointX": 14,
           "pointY": 4
         },
@@ -4807,6 +4807,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 28014,
+          "baseName": "records\\xpack2\\item\\equipmentarmor\\greaves\\z_tracksuit.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 1065353216,
+          "pointX": 2,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
           "seed": 20321,
           "baseName": "Records\\XPack3\\Items\\EquipmentArmor\\Greaves\\u_n_01.dbr",
           "prefixName": "",
@@ -4817,7 +4832,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 4,
           "pointY": 6
         },
         {
@@ -4832,7 +4847,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 4,
+          "pointX": 6,
           "pointY": 6
         },
         {
@@ -4847,7 +4862,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 6,
+          "pointX": 8,
           "pointY": 6
         },
         {
@@ -4862,7 +4877,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 8,
+          "pointX": 10,
           "pointY": 6
         },
         {
@@ -4877,7 +4892,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 12,
           "pointY": 6
         },
         {
@@ -4892,7 +4907,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 14,
           "pointY": 6
         },
         {
@@ -4907,7 +4922,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 16,
           "pointY": 6
         },
         {
@@ -4922,8 +4937,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
-          "pointY": 6
+          "pointX": 0,
+          "pointY": 8
         },
         {
           "stackSize": 1,
@@ -4937,7 +4952,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
+          "pointX": 2,
           "pointY": 8
         }
       ]
