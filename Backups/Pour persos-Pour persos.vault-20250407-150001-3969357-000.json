@@ -1341,7 +1341,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1802563648,
           "pointX": 16,
           "pointY": 1
         },
@@ -1386,7 +1386,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 3
         },
@@ -1416,7 +1416,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 2,
           "pointY": 7
         },
@@ -1476,24 +1476,9 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 0,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 7298,
-          "baseName": "records\\xpack2\\quests\\objects\\items\\x2sq23_lokiwand.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 426039528,
-          "pointX": 17,
-          "pointY": 4
         }
       ]
     }
