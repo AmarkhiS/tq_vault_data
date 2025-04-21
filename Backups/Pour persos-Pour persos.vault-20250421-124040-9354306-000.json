@@ -1494,36 +1494,6 @@
           "var2": 2035248,
           "pointX": 17,
           "pointY": 4
-        },
-        {
-          "stackSize": 2,
-          "seed": 3828,
-          "baseName": "records\\item\\HCDungeon\\x4pot_PotionOfSkillReset_Health_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 17,
-          "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 14657,
-          "baseName": "records\\item\\HCDungeon\\x4pot_PotionOfSkillReset_Mana_01.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1179064448,
-          "pointX": 16,
-          "pointY": 7
         }
       ]
     }

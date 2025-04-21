@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 2,
+  "currentlySelectedSackNumber": 7,
   "sacks": [
     {
       "iconinfo": null,
@@ -1305,21 +1305,6 @@
           "var2": 2035248,
           "pointX": 2,
           "pointY": 4
-        },
-        {
-          "stackSize": 1,
-          "seed": 23059,
-          "baseName": "records\\xpack4\\item\\equipmentweapon\\bow\\c_l_peachwoodbow_05.dbr",
-          "prefixName": "records\\item\\lootmagicalaffixes\\prefix\\default\\offensive_damagelife_03.dbr",
-          "suffixName": "records\\xpack\\item\\lootmagicalaffixes\\suffix\\default\\rare_lifedmgreducedresist_03.dbr",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 8
         }
       ]
     },
@@ -2597,7 +2582,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798565952,
           "pointX": 8,
           "pointY": 0
         },
@@ -2962,7 +2947,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798565952,
           "pointX": 6,
           "pointY": 0
         },
@@ -3037,7 +3022,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798565952,
           "pointX": 16,
           "pointY": 0
         },
@@ -3052,7 +3037,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1798565952,
           "pointX": 0,
           "pointY": 3
         },
