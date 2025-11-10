@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -1212,6 +1212,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 7118,
+          "baseName": "records\\xpack\\quests\\objects\\items\\z_theoverlord.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 12,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 12749,
           "baseName": "records\\xpack2\\item\\miscellaneous\\dyes\\egypt\\dye08_Gold.dbr",
           "prefixName": "",
@@ -1509,21 +1524,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 7118,
-          "baseName": "records\\xpack\\quests\\objects\\items\\z_theoverlord.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 12,
-          "pointY": 0
         }
       ]
     }

@@ -5542,6 +5542,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 15574,
+          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\US_L_001.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "",
+          "var1": 0,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 8,
+          "pointY": 6
+        },
+        {
+          "stackSize": 1,
           "seed": 29581,
           "baseName": "records\\xpack\\item\\equipmentarmor\\greaves\\us_l_002.dbr",
           "prefixName": "",
@@ -5614,21 +5629,6 @@
           "var2": 2035248,
           "pointX": 0,
           "pointY": 8
-        },
-        {
-          "stackSize": 1,
-          "seed": 15574,
-          "baseName": "Records\\XPack\\Item\\equipmentArmor\\Greaves\\US_L_001.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 8,
-          "pointY": 6
         }
       ]
     },

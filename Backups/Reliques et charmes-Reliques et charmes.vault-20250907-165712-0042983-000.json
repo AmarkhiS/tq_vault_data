@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 5,
+  "currentlySelectedSackNumber": 0,
   "sacks": [
     {
       "iconinfo": null,
@@ -2063,6 +2063,21 @@
         },
         {
           "stackSize": 1,
+          "seed": 1424,
+          "baseName": "records\\xpack4\\item\\relics\\03_x4_incarnationofserketstouch.dbr",
+          "prefixName": "",
+          "suffixName": "",
+          "relicName": "",
+          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Relics\\Serket_1.dbr",
+          "var1": 3,
+          "relicName2": "",
+          "relicBonus2": "",
+          "var2": 2035248,
+          "pointX": 2,
+          "pointY": 0
+        },
+        {
+          "stackSize": 1,
           "seed": 28073,
           "baseName": "records\\xpack4\\item\\relics\\03_x4_incarnationofsobeksanctuary.dbr",
           "prefixName": "",
@@ -2089,21 +2104,6 @@
           "relicBonus2": "",
           "var2": 2035248,
           "pointX": 4,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
-          "seed": 1424,
-          "baseName": "records\\xpack4\\item\\relics\\03_x4_incarnationofserketstouch.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "records\\XPack4\\Item\\LootMagicalAffixes\\Relics\\Serket_1.dbr",
-          "var1": 3,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 2035248,
-          "pointX": 2,
           "pointY": 0
         }
       ]
