@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 4,
+  "currentlySelectedSackNumber": 9,
   "sacks": [
     {
       "iconinfo": null,
@@ -452,7 +452,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 4,
           "pointY": 7
         },
@@ -808,21 +808,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 16379,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Spear\\U_L_SupremacyOfRa.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 14,
-          "pointY": 0
-        },
-        {
-          "stackSize": 1,
           "seed": 18358,
           "baseName": "Records\\XPack\\Item\\equipmentWeapons\\Spear\\US_L_002.dbr",
           "prefixName": "",
@@ -833,7 +818,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 15,
+          "pointX": 14,
           "pointY": 0
         },
         {
@@ -848,7 +833,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 16,
+          "pointX": 15,
           "pointY": 0
         },
         {
@@ -863,7 +848,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 17,
+          "pointX": 16,
           "pointY": 0
         },
         {
@@ -878,8 +863,8 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 0,
-          "pointY": 5
+          "pointX": 17,
+          "pointY": 0
         },
         {
           "stackSize": 1,
@@ -893,7 +878,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 1,
+          "pointX": 0,
           "pointY": 5
         },
         {
@@ -908,7 +893,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 2,
+          "pointX": 1,
           "pointY": 5
         }
       ]
@@ -3055,21 +3040,6 @@
           "var2": 2035248,
           "pointX": 16,
           "pointY": 7
-        },
-        {
-          "stackSize": 1,
-          "seed": 22192,
-          "baseName": "records\\XPack4\\Item\\EquipmentWeapon\\Shield\\U_L_KheprersResistance.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 0,
-          "pointY": 8
         }
       ]
     },
@@ -5641,7 +5611,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 6,
           "pointY": 6
         },
