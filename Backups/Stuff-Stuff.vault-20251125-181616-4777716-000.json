@@ -1,7 +1,7 @@
 ﻿{
   "disabledtooltip": [],
   "currentlyFocusedSackNumber": 0,
-  "currentlySelectedSackNumber": 10,
+  "currentlySelectedSackNumber": 6,
   "sacks": [
     {
       "iconinfo": null,
@@ -4157,7 +4157,7 @@
           "var1": 0,
           "relicName2": "",
           "relicBonus2": "",
-          "var2": 2035248,
+          "var2": 1065353216,
           "pointX": 16,
           "pointY": 3
         },
@@ -6342,21 +6342,6 @@
         },
         {
           "stackSize": 1,
-          "seed": 32074,
-          "baseName": "records\\xpack4\\item\\equipmentweapon\\staff\\u_l_yusacrifice.dbr",
-          "prefixName": "",
-          "suffixName": "",
-          "relicName": "",
-          "relicBonus": "",
-          "var1": 0,
-          "relicName2": "",
-          "relicBonus2": "",
-          "var2": 1065353216,
-          "pointX": 8,
-          "pointY": 8
-        },
-        {
-          "stackSize": 1,
           "seed": 18434,
           "baseName": "records\\xpack\\item\\equipmentweapons\\staff\\usm_l_002.dbr",
           "prefixName": "",
@@ -6367,7 +6352,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 10,
+          "pointX": 8,
           "pointY": 8
         },
         {
@@ -6382,7 +6367,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 12,
+          "pointX": 10,
           "pointY": 8
         },
         {
@@ -6397,7 +6382,7 @@
           "relicName2": "",
           "relicBonus2": "",
           "var2": 2035248,
-          "pointX": 14,
+          "pointX": 12,
           "pointY": 8
         }
       ]
